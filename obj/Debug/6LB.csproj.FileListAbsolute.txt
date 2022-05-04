@@ -1,0 +1,11 @@
+C:\Users\sovik\source\repos\6LB\6LB\bin\Debug\6LB.exe.config
+C:\Users\sovik\source\repos\6LB\6LB\bin\Debug\6LB.exe
+C:\Users\sovik\source\repos\6LB\6LB\bin\Debug\6LB.pdb
+C:\Users\sovik\source\repos\6LB\6LB\obj\Debug\6LB.csproj.AssemblyReference.cache
+C:\Users\sovik\source\repos\6LB\6LB\obj\Debug\6LB.csproj.SuggestedBindingRedirects.cache
+C:\Users\sovik\source\repos\6LB\6LB\obj\Debug\_6LB.Form1.resources
+C:\Users\sovik\source\repos\6LB\6LB\obj\Debug\_6LB.Properties.Resources.resources
+C:\Users\sovik\source\repos\6LB\6LB\obj\Debug\6LB.csproj.GenerateResource.cache
+C:\Users\sovik\source\repos\6LB\6LB\obj\Debug\6LB.csproj.CoreCompileInputs.cache
+C:\Users\sovik\source\repos\6LB\6LB\obj\Debug\6LB.exe
+C:\Users\sovik\source\repos\6LB\6LB\obj\Debug\6LB.pdb
